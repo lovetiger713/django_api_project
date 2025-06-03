@@ -57,7 +57,8 @@ http://localhost:8000/
 
 ## ✨ 預覽畫面
 
-（你可以放專案執行後的 API Swagger 畫面截圖在這裡！）
+![image](https://github.com/user-attachments/assets/2b41fab3-f4fa-4874-8016-5cdfc8776ebc)
+
 
 ---
 
